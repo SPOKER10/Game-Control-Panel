@@ -6,6 +6,12 @@
   <b>sa-mp.com and the contents herein, are not affiliated with Rockstar Games, Rockstar North or Take-Two Interactive Software Inc.
   Grand Theft Auto and Grand Theft Auto: San Andreas are registered trademarks of Take-Two Interactive Software Inc.</b>
   <hr>
+  # IMAGES
+  <img src="https://www.mihai-gabriel.ro/ade/1.png"/>
+  <img src="https://www.mihai-gabriel.ro/ade/2.png"/>
+  <img src="https://www.mihai-gabriel.ro/ade/3.png"/>
+  <img src="https://www.mihai-gabriel.ro/ade/4.png"/>
+  <hr>
   VEGAS PRODUCTS, MADE BY <b>MIHAI GABRIEL</b>! (Last updated: 2020, PREMIUM PRODUCTS)
 
 <hr>
