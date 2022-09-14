@@ -1,6 +1,6 @@
 
   # Ultra High - Game Control Panel
-  Made for San Andreas MultiPlayer (SA-MP.COM) Server.
+  Made by Mihai Gabriel (https://www.mihai-gabriel.ro/) for San Andreas MultiPlayer (SA-MP.COM) Server.
   <hr>
   <img src="https://www.sa-mp.com/images/logo.png"/>
   <b>sa-mp.com and the contents herein, are not affiliated with Rockstar Games, Rockstar North or Take-Two Interactive Software Inc.
