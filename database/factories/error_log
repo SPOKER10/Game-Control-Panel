@@ -1,0 +1,4 @@
+[21-Mar-2019 18:17:20 Europe/Bucharest] PHP Fatal error:  Call to a member function define() on null in /home2/linkman2/public_html/panel/database/factories/ModelFactory.php on line 14
+[21-Mar-2019 18:17:22 Europe/Bucharest] PHP Fatal error:  Call to a member function define() on null in /home2/linkman2/public_html/panel/database/factories/ModelFactory.php on line 14
+[21-Mar-2019 19:48:37 Europe/Bucharest] PHP Fatal error:  Call to a member function define() on null in /home2/linkman2/public_html/panel/database/factories/ModelFactory.php on line 14
+[21-Mar-2019 20:58:14 Europe/Bucharest] PHP Fatal error:  Call to a member function define() on null in /home2/linkman2/public_html/panel/database/factories/ModelFactory.php on line 14

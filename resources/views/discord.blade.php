@@ -1,0 +1,3 @@
+@extends('layouts.master')
+@section('breadcrumb','Discord Channel')
+@section('content')<script src="https://discordapp.com/api/guilds/479998712689590273/widget.json"></script><center><img src="dw.png" width="400" height="140" /></br><iframe src="https://discordapp.com/widget?id=479998712689590273&theme=dark" width="400" height="600" allowtransparency="true" frameborder="0"></iframe></center>@endsection

@@ -1,0 +1,3 @@
+[21-Mar-2019 19:42:42 Europe/Bucharest] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/linkman2/public_html/panel/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 8
+[21-Mar-2019 20:26:16 Europe/Bucharest] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/linkman2/public_html/panel/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 8
+[21-Mar-2019 20:58:02 Europe/Bucharest] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home2/linkman2/public_html/panel/database/migrations/2017_02_22_183541_create_cache_table.php on line 8

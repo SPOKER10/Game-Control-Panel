@@ -1,0 +1,31 @@
+
+RewriteOptions inherit
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+		Options -Indexes
+    </IfModule>
+
+    RewriteEngine On
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+    # Handle Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+</IfModule>
+
+     Redirect /sugestii https://www.linkmania.ro/topic/510178-sugestii-server-sa-mp/
+     Redirect /bugs https://www.linkmania.ro/topic/510179-raportare-bug-uri-sa-mp/
+Redirect /costin https://www.youtube.com/channel/UChj0AzxP4zmIPyTnCrrKIyA/videos
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>

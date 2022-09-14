@@ -1,0 +1,2 @@
+[21-Mar-2019 18:50:22 Europe/Bucharest] PHP Fatal error:  Class 'Request' not found in /home2/linkman2/public_html/panel/resources/views/demis/list.blade.php on line 11
+[21-Mar-2019 18:50:22 Europe/Bucharest] PHP Fatal error:  Class 'App\FLog' not found in /home2/linkman2/public_html/panel/resources/views/demis/view.blade.php on line 56

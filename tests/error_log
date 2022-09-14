@@ -1,0 +1,7 @@
+[21-Mar-2019 18:28:22 Europe/Bucharest] PHP Fatal error:  Class 'TestCase' not found in /home2/linkman2/public_html/panel/tests/ExampleTest.php on line 8
+[21-Mar-2019 18:28:22 Europe/Bucharest] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/linkman2/public_html/panel/tests/TestCase.php on line 4
+[21-Mar-2019 18:31:23 Europe/Bucharest] PHP Fatal error:  Class 'TestCase' not found in /home2/linkman2/public_html/panel/tests/ExampleTest.php on line 8
+[21-Mar-2019 18:37:06 Europe/Bucharest] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/linkman2/public_html/panel/tests/TestCase.php on line 4
+[21-Mar-2019 18:37:06 Europe/Bucharest] PHP Fatal error:  Class 'TestCase' not found in /home2/linkman2/public_html/panel/tests/ExampleTest.php on line 8
+[21-Mar-2019 20:55:34 Europe/Bucharest] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home2/linkman2/public_html/panel/tests/TestCase.php on line 4
+[21-Mar-2019 20:55:36 Europe/Bucharest] PHP Fatal error:  Class 'TestCase' not found in /home2/linkman2/public_html/panel/tests/ExampleTest.php on line 8

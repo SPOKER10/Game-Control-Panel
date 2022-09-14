@@ -1,0 +1,2 @@
+[21-Mar-2019 18:29:00 Europe/Bucharest] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/linkman2/public_html/panel/app/Http/Kernel.php on line 8
+[21-Mar-2019 18:33:44 Europe/Bucharest] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home2/linkman2/public_html/panel/app/Http/Kernel.php on line 8

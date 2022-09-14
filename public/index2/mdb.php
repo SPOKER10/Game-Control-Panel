@@ -1,0 +1,1 @@
+<?php const DB_HOST = '193.203.39.73';const DB_USER = 'linkmania_panel';const DB_PASS = 'piqiZNaWR7pcWnaC';const DB_NAME = 'linkmania215'; ?>

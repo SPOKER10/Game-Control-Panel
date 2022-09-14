@@ -1,0 +1,1 @@
+[21-Mar-2019 18:50:19 Europe/Bucharest] PHP Fatal error:  Class 'App\FLog' not found in /home2/linkman2/public_html/panel/resources/views/clanapps/view.blade.php on line 58

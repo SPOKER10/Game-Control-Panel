@@ -1,0 +1,5 @@
+[21-Mar-2019 18:28:59 Europe/Bucharest] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home2/linkman2/public_html/panel/app/Console/Kernel.php on line 9
+[21-Mar-2019 19:06:21 Europe/Bucharest] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home2/linkman2/public_html/panel/app/Console/Kernel.php on line 9
+[21-Mar-2019 20:04:00 Europe/Bucharest] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home2/linkman2/public_html/panel/app/Console/Kernel.php on line 9
+[21-Mar-2019 20:04:26 Europe/Bucharest] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home2/linkman2/public_html/panel/app/Console/Kernel.php on line 9
+[21-Mar-2019 20:17:08 Europe/Bucharest] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home2/linkman2/public_html/panel/app/Console/Kernel.php on line 9
