@@ -11,6 +11,7 @@
   <img src="https://www.mihai-gabriel.ro/ade/2.png"/>
   <img src="https://www.mihai-gabriel.ro/ade/3.png"/>
   <img src="https://www.mihai-gabriel.ro/ade/4.png"/>
+  <img src="https://www.mihai-gabriel.ro/ade/5.png"/>
   <hr>
   VEGAS PRODUCTS, MADE BY <b>MIHAI GABRIEL</b>! (Last updated: 2020, PREMIUM PRODUCTS)
 
