@@ -7,7 +7,7 @@
   Grand Theft Auto and Grand Theft Auto: San Andreas are registered trademarks of Take-Two Interactive Software Inc.</b>
   <hr>
   # IMAGES
-  <img src="https://www.mihai-gabriel.ro/ade/1.png"/>
+  <img src="https://i.ibb.co/KFhjVxR/panel-lm.png"/>
   <img src="https://www.mihai-gabriel.ro/ade/2.png"/>
   <img src="https://www.mihai-gabriel.ro/ade/3.png"/>
   <img src="https://www.mihai-gabriel.ro/ade/4.png"/>
