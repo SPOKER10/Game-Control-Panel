@@ -8,9 +8,9 @@
   <hr>
   # IMAGES
   <img src="https://devforum.ro/uploads/default/optimized/3X/6/7/6734fa4311bd8e7961b6549f1741f94d51c470a7_2_1035x493.png"/>
-  <img src="https://www.mihai-gabriel.ro/ade/2.png"/>
-  <img src="https://www.mihai-gabriel.ro/ade/3.png"/>
-  <img src="https://www.mihai-gabriel.ro/ade/4.png"/>
+  <img src="https://devforum.ro/uploads/default/optimized/3X/b/5/b5852041ee5b066bdae39a09e2b043e9f36117b6_2_1033x492.png"/>
+  <img src="https://devforum.ro/uploads/default/optimized/3X/a/1/a1adfacd525fee41adb5e7a0b574fab3e76c39d5_2_1035x492.png"/>
+  <img src="https://devforum.ro/uploads/default/optimized/3X/e/b/ebe4d337b760b72d0acd959e87ab21ea502c13f5_2_1035x493.png"/>
   <img src="https://www.mihai-gabriel.ro/ade/5.png"/>
   <hr>
   VEGAS PRODUCTS, MADE BY <b>MIHAI GABRIEL</b>! (Last updated: 2020, PREMIUM PRODUCTS)
